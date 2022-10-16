@@ -1,0 +1,19 @@
+
+.login form div{
+    width: 38vh;
+    margin: auto;
+}
+
+.img {
+    display: flex;
+    justify-content: center;
+}
+
+.img img {
+    width: 32vh;
+    margin: 6vh auto;
+}
+
+button{
+    width: 100%;
+}

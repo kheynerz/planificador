@@ -1,0 +1,38 @@
+
+.appcard {
+    margin: 4% auto 0% auto;
+    width: 60%;
+    height: 20vh;
+    border-radius: 8px;
+    background-color:aliceblue;
+    border:  2px solid black;
+    color: #213547;
+    box-shadow: 0 10px 20px -8px rgba(0, 0, 0,.7);
+    cursor: pointer;
+}
+
+.appcard:hover {
+    border: 2px solid rgba(81, 173, 196, 1);
+}
+
+.icon{
+    display: flex;
+    height: 20vh;
+    justify-content: center;
+}
+
+.icon img{
+    width: 92px;
+    margin: auto auto;
+}
+
+
+.title {
+    display: flex;
+    height: 20vh;
+    justify-content: center;
+}
+
+.title h3{
+    margin: auto;
+}
